@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Xia Chen-Rui](https://rusty-sj.github.io/)! 😁
+### Hi there 👋, I am [Xia Chen-Rui](https://xiachenrui.github.io/)! 😁
 <!--
 **xiachenrui/xiachenrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

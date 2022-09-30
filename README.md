@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Xia Chen-Rui and I am a PhD student at [Peking University](https://english.pku.edu.cn/) majoring in Bioinfomatics.My main interest is to uncover biomedical big data using deep learning. Besides programming, I have an immense interest in music and food.
+Hello, my name is Xia Chen-Rui and I am a PhD student at [Peking University](https://english.pku.edu.cn/) majoring in Bioinfomatics. My main interest is to uncover biomedical big data using deep learning. Besides programming, I have an immense interest in music and food.
 
-- 🔭 I’m currently researching in [Gao Lab](http://www.gao-lab.org/)
+- 🔭 I’m currently doing research in [Gao Lab](http://www.gao-lab.org/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: huhansan666666@gmail.com
 - 😄 Pronouns: Programmer/He

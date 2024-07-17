@@ -22,6 +22,7 @@ Hello, my name is Xia Chen-Rui and I am a PhD student at [Peking University](htt
 - 📫 How to reach me: huhansan666666@gmail.com
 - 😄 Pronouns: Programmer/He
 
+Please check my [homepage](https://xiachenrui.github.io/) for more details!
 
 **Languages and Tools:** 
 
@@ -32,7 +33,7 @@ Hello, my name is Xia Chen-Rui and I am a PhD student at [Peking University](htt
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![Xia Chen-Rui's Github Stats](https://github-readme-stats.vercel.app/api?username=xiachenrui&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Xia Chen-Rui's Github Stats](https://github-readme-stats.vercel.app/api?username=xiachenrui&count_private=true&show_icons=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiachenrui&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xiachenrui.xiachenrui)

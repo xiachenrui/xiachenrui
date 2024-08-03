@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Xia Chen-Rui](https://xiachenrui.github.io/)! 😁
+### Hi there 👋, I am [Chen-Rui Xia](https://xiachenrui.github.io/)! 😁
 <!--
 **xiachenrui/xiachenrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Xia Chen-Rui and I am a PhD student at [Peking University](https://english.pku.edu.cn/) majoring in Bioinfomatics. My main interest is to uncover biomedical big data using deep learning. Besides programming, I have an immense interest in music and food.
+I'm a third year PhD student at the Center of Bioinfomatics (CBI) at Peking University supervised by Dr. Ge Gao. Please see my CV for more information.
+
+My research interest is using deep learning to decipher single cell omics data. Recently I am focused on spatial omics data modeling, including multi-slices integration, spatial-awared embedding.
 
 - 🔭 I’m currently doing research in [Gao Lab](http://www.gao-lab.org/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: huhansan666666@gmail.com
+- 📫 How to reach me: xiachenrui@mail.cbi.pku.edu.cn
 - 😄 Pronouns: Programmer/He
 
 Please check my [homepage](https://xiachenrui.github.io/) for more details!
 
-**Languages and Tools:** 
+**Coding:** 
 
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![R](https://img.shields.io/badge/-R-black?logo=r&style=social)&nbsp;&nbsp;

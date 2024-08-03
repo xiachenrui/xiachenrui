@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-I'm a third year PhD student at the Center of Bioinfomatics (CBI) at Peking University supervised by Dr. Ge Gao. Please see my CV for more information.
+I'm a third year PhD student at the Center of Bioinfomatics (CBI) at Peking University supervised by Dr. Ge Gao. Please check my [homepage](https://xiachenrui.github.io/) for more details!
 
 My research interest is using deep learning to decipher single cell omics data. Recently I am focused on spatial omics data modeling, including multi-slices integration, spatial-awared embedding.
 
@@ -24,7 +24,7 @@ My research interest is using deep learning to decipher single cell omics data. 
 - 📫 How to reach me: xiachenrui@mail.cbi.pku.edu.cn
 - 😄 Pronouns: Programmer/He
 
-Please check my [homepage](https://xiachenrui.github.io/) for more details!
+
 
 **Coding:** 
 
